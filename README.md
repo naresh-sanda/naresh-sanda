@@ -1,77 +1,97 @@
+<img src="" alt="Naresh Kumar Banner" style="width:100%;"/>
 <h1 align="center">Hi 👋, I'm Naresh Kumar Sanda</h1>
-<h3 align="center">🚀 14+ YOE | Senior Java Backend Architect | Microservices | System Design | AI-in-Tech Explorer</h3>
+<h3 align="center">🚀 Senior Java Engineer | Backend Architect | System Designer | AI-for-DevOps Enthusiast | 14+ Years Experience</h3>
 
 ---
 
-🔹 **Who I Am**
+### 🔍 About Me
 
-I'm a hands-on Java developer with 14+ years of experience building scalable, high-performance backend systems. I specialize in designing and engineering microservices architectures, optimizing Java-based systems, and now diving deep into AI and distributed data engineering.
+With over **14 years of hands-on experience** in backend development, I’ve built and scaled distributed systems, high-traffic microservices, and cloud-native architectures for real-world business challenges.
 
----
-
-🧠 **Expertise**
-
-- 💻 Java (Core, Concurrency, Collections, Streams, Generics, JVM Internals)
-- ☕ Spring Framework (Boot, Security, WebFlux, Data JPA, AOP)
-- 🧩 Microservices Architecture | RESTful APIs | JWT | Rate Limiting | API Gateway
-- 🗃️ PostgreSQL | MySQL | MongoDB | Redis | Kafka
-- 📦 CI/CD | Docker | Kubernetes | AWS (S3, Lambda, ECS, CloudWatch)
-- ⚡ Apache Spark | Databricks | Distributed Data Pipelines
-- 🤖 AI Integration for Developer Productivity (Code Reviewers, ChatOps)
-- 📐 System Design | Performance Tuning | Scaling | Observability
-- 🧰 Tools: IntelliJ, Postman, Git, Maven, Gradle, Prometheus, Grafana
+I'm deeply rooted in **Java and Spring ecosystem**, but I thrive at the intersection of **backend systems, distributed computing, and AI-enabled automation**. Whether it’s designing fault-tolerant systems or experimenting with GPT-based developer tools, I enjoy solving hard problems with simplicity and scale in mind.
 
 ---
 
-📌 **Currently Building**
+### 🧠 Core Skills
 
-- 🎯 [Java Interview Kit (3–10 YOE)](https://github.com/NareshKumarSanda/java-interview-kit) – Interview prep material for mid-to-senior Java devs
-- 🧠 AI tools for Java Devs – Integrating LLMs for code review, documentation, and performance suggestions
-- 🏗️ Multi-tenant Data Pipeline – Spring Boot + Spark + Databricks + S3 for scalable data workloads
+- 👨‍💻 **Languages**: Java, SQL, Shell, Python (basic)
+- 🌿 **Frameworks**: Spring Boot, Spring Security, Spring Cloud, JPA, Hibernate
+- 🏗 **Architecture**: Microservices, Event-Driven, REST, Monolith to Microservices Transition
+- 🗃️ **Databases**: PostgreSQL, MySQL, MongoDB, Redis, S3
+- 🔀 **Messaging**: Kafka, RabbitMQ
+- ☁ **Cloud & Infra**: AWS (S3, Lambda, EC2), Docker, CI/CD (GitHub Actions, Jenkins)
+- 🔍 **Monitoring**: Prometheus, Grafana, CloudWatch
+- 📊 **Data Engineering**: Apache Spark with Java, Databricks Pipelines, Delta Lake
+- 🤖 **AI/LLM Integration**:
+  - AI-assisted code review and refactoring tools using GPT-4
+  - Prompt engineering for test case generation, SQL generation, and documentation
+  - LLMs for data quality validation, anomaly detection, and log analysis
+  - Building internal tools that combine Spring Boot backends with OpenAI APIs
 
 ---
 
-🌐 **Connect With Me**
+### 🛠 AI + Java: Real Use-Cases I Work On
+
+| Use-Case | Description |
+|----------|-------------|
+| 🧾 **Smart Code Review Bot** | Java code gets auto-reviewed by GPT-4 before pull requests are merged |
+| 🔍 **AI Log Analyzer** | LLM analyzes error logs and provides root cause suggestions |
+| 🧪 **Test Generator** | Converts method signatures into full-fledged unit tests with JUnit5 |
+| 📄 **AI Doc Writer** | Converts raw Java code to clean, structured documentation |
+| 🧠 **Databricks + LLM** | Use LLM to validate large datasets and generate insights on the fly |
+
+---
+
+### 🧪 Currently Building
+
+- ⚙️ `multi-tenant-data-pipeline` – Java + Spark + S3 with dataset usage billing and job orchestration
+- 🧠 `ai-code-reviewer` – Plug-n-play GPT-powered static analyzer for Java apps
+- 📘 `java-interview-kit` – A full career transition kit for mid to senior Java devs (3–10 YOE)
+- 🔍 `system-design-java` – Real-world Java-centric system designs with diagrams
+
+---
+
+### 📂 Featured Repositories
+
+| Repo | Description | Tech Stack |
+|------|-------------|------------|
+| [`java-interview-kit`](https://github.com/NareshKumarSanda/java-interview-kit) | Interview prep: Questions, system design, resume tips | Java, Markdown |
+| [`multi-tenant-data-pipeline`](https://github.com/NareshKumarSanda/multi-tenant-data-pipeline) | Spring Boot + Spark + Billing pipeline | Spring Boot, Spark, PostgreSQL, S3 |
+| [`ai-code-reviewer`](https://github.com/NareshKumarSanda/ai-code-reviewer) | GPT-enhanced code analysis tool | Java, OpenAI, REST |
+| [`peer-vehicle-rental`](https://github.com/NareshKumarSanda/peer-vehicle-rental) | Rent vehicles from neighbors backend | Spring Boot, JWT, MySQL |
+| [`system-design-java`](https://github.com/NareshKumarSanda/system-design-java) | System design examples in backend Java | Java, Diagrams |
+
+---
+
+### 🌐 Connect with Me
 
 - 🔗 [LinkedIn](https://linkedin.com/in/nareshkumarsanda)
 - 📬 Email: `nareshkumarsanda@gmail.com`
-- 📂 [GitHub Projects](https://github.com/NareshKumarSanda)
+- 💻 GitHub: [github.com/NareshKumarSanda](https://github.com/NareshKumarSanda)
 
 ---
 
-📚 **Featured Projects**
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Java Interview Kit](https://github.com/NareshKumarSanda/java-interview-kit) | Resources, cheat sheets, and behavioral tips for Java interviews | Java, Spring, Markdown |
-| [Multi-Tenant Pipeline](https://github.com/NareshKumarSanda/multi-tenant-data-pipeline) | API Gateway + Spark + Billing + Dataset Orchestration | Spring Boot, Spark, S3, PostgreSQL |
-| [P2P Bike/Car Rental](https://github.com/NareshKumarSanda/peer-vehicle-rental) | Rent vehicles from neighbors in real-time | Java, Spring Boot, JWT, MySQL |
-| [AI Code Reviewer](https://github.com/NareshKumarSanda/ai-code-reviewer) | GPT-powered static code analysis for Java | Java, OpenAI, LangChain |
-| [System Design Samples](https://github.com/NareshKumarSanda/system-design-java) | Real-world Java system design case studies | Java, Diagrams, Architecture Docs |
-
----
-
-📈 **GitHub Stats**
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NareshKumarSanda&show_icons=true&theme=radical" alt="Naresh Kumar GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NareshKumarSanda&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NareshKumarSanda&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NareshKumarSanda&theme=radical" />
 </p>
 
 ---
 
-💬 **Ask Me About**
+### 🎯 2025 Goals
 
-`Java`, `Spring Boot`, `System Design`, `Databricks`, `Apache Spark`, `Backend Performance`, `AI Developer Tools`, `Mentorship`
-
----
-
-🛠️ **Goals for 2025**
-
-- 🎓 Mentor 50+ Java developers to transition into senior roles
-- ⚙️ Release 2 open-source tools for Java microservices and AI integration
-- 📘 Publish a mini eBook: **“Java System Design Handbook (By Naresh Kumar – 15 YOE)”**
+- 👨‍🏫 Mentor 100+ Java developers in system design and backend architecture
+- 🚀 Open-source 2 AI-powered tools for developer productivity
+- ✍️ Publish: **Java System Design Handbook (By Naresh Kumar – 15 YOE)**
 
 ---
 
+### 💬 Ask Me About
+
+`Java`, `Spring Boot`, `Microservices`, `System Design`, `Apache Spark`, `Databricks`, `AI + Java`, `Code Reviews`, `Career Transition`, `Platform Architecture`
+
+---
+</body>

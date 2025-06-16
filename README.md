@@ -66,7 +66,7 @@ I'm deeply rooted in **Java and Spring ecosystem**, but I thrive at the intersec
 ### 🌐 Connect with Me
 
 - 🔗 [LinkedIn](https://linkedin.com/in/nareshkumarsanda)
-- 📬 Email: `nareshkumarsanda@gmail.com`
+- 📬 Email: `nareshkumar.sanda@gmail.com`
 - 💻 GitHub: [github.com/NareshKumarSanda](https://github.com/NareshKumarSanda)
 
 ---

@@ -1,97 +1,161 @@
-<img src="" alt="Naresh Kumar Banner" style="width:100%;"/>
-<h1 align="center">Hi 👋, I'm Naresh Kumar Sanda</h1>
-<h3 align="center">🚀 Senior Java Engineer | Backend Architect | System Designer | AI-for-DevOps Enthusiast | 14+ Years Experience</h3>
+# 🚀 Naresh Kumar Sanda  
+### Founder-Mindset Backend Architect | Data Platform Builder | Java × AI | 15+ YOE
+
+> *I don’t just write services — I build platforms that scale, evolve, and monetize.*
 
 ---
 
-### 🔍 About Me
+## 👋 About Me
 
-With over **14 years of hands-on experience** in backend development, I’ve built and scaled distributed systems, high-traffic microservices, and cloud-native architectures for real-world business challenges.
+I’m a **backend architect with 15+ years of experience** building systems that go beyond features —  
+systems that become **products, platforms, and businesses**.
 
-I'm deeply rooted in **Java and Spring ecosystem**, but I thrive at the intersection of **backend systems, distributed computing, and AI-enabled automation**. Whether it’s designing fault-tolerant systems or experimenting with GPT-based developer tools, I enjoy solving hard problems with simplicity and scale in mind.
+My current focus areas:
 
----
+- SaaS-ready backend platforms  
+- Multi-tenant architecture design  
+- Data & analytics systems  
+- AI-native automation  
+- Usage-based billing models  
 
-### 🧠 Core Skills
+I work at the intersection of:
 
-- 👨‍💻 **Languages**: Java, SQL, Shell, Python (basic)
-- 🌿 **Frameworks**: Spring Boot, Spring Security, Spring Cloud, JPA, Hibernate
-- 🏗 **Architecture**: Microservices, Event-Driven, REST, Monolith to Microservices Transition
-- 🗃️ **Databases**: PostgreSQL, MySQL, MongoDB, Redis, S3
-- 🔀 **Messaging**: Kafka, RabbitMQ
-- ☁ **Cloud & Infra**: AWS (S3, Lambda, EC2), Docker, CI/CD (GitHub Actions, Jenkins)
-- 🔍 **Monitoring**: Prometheus, Grafana, CloudWatch
-- 📊 **Data Engineering**: Apache Spark with Java, Databricks Pipelines, Delta Lake
-- 🤖 **AI/LLM Integration**:
-  - AI-assisted code review and refactoring tools using GPT-4
-  - Prompt engineering for test case generation, SQL generation, and documentation
-  - LLMs for data quality validation, anomaly detection, and log analysis
-  - Building internal tools that combine Spring Boot backends with OpenAI APIs
+> **Java engineering × data platforms × intelligent automation**
 
 ---
 
-### 🛠 AI + Java: Real Use-Cases I Work On
+## 🧭 Founder Engineering Philosophy
 
-| Use-Case | Description |
-|----------|-------------|
-| 🧾 **Smart Code Review Bot** | Java code gets auto-reviewed by GPT-4 before pull requests are merged |
-| 🔍 **AI Log Analyzer** | LLM analyzes error logs and provides root cause suggestions |
-| 🧪 **Test Generator** | Converts method signatures into full-fledged unit tests with JUnit5 |
-| 📄 **AI Doc Writer** | Converts raw Java code to clean, structured documentation |
-| 🧠 **Databricks + LLM** | Use LLM to validate large datasets and generate insights on the fly |
+I believe strong systems should answer these questions:
 
----
+- Can this scale 10× without redesign?
+- Can it serve multiple customers safely?
+- Can usage be tracked and billed?
+- Can AI reduce manual effort?
+- Can this evolve into a SaaS?
 
-### 🧪 Currently Building
-
-- ⚙️ `multi-tenant-data-pipeline` – Java + Spark + S3 with dataset usage billing and job orchestration
-- 🧠 `ai-code-reviewer` – Plug-n-play GPT-powered static analyzer for Java apps
-- 📘 `java-interview-kit` – A full career transition kit for mid to senior Java devs (3–10 YOE)
-- 🔍 `system-design-java` – Real-world Java-centric system designs with diagrams
+Every architecture I design follows these principles.
 
 ---
 
-### 📂 Featured Repositories
+## 🏗 What I Build
 
-| Repo | Description | Tech Stack |
-|------|-------------|------------|
-| [`java-interview-kit`](https://github.com/NareshKumarSanda/java-interview-kit) | Interview prep: Questions, system design, resume tips | Java, Markdown |
-| [`multi-tenant-data-pipeline`](https://github.com/NareshKumarSanda/multi-tenant-data-pipeline) | Spring Boot + Spark + Billing pipeline | Spring Boot, Spark, PostgreSQL, S3 |
-| [`ai-code-reviewer`](https://github.com/NareshKumarSanda/ai-code-reviewer) | GPT-enhanced code analysis tool | Java, OpenAI, REST |
-| [`peer-vehicle-rental`](https://github.com/NareshKumarSanda/peer-vehicle-rental) | Rent vehicles from neighbors backend | Spring Boot, JWT, MySQL |
-| [`system-design-java`](https://github.com/NareshKumarSanda/system-design-java) | System design examples in backend Java | Java, Diagrams |
+### ⚙️ Platform Engineering
+- Multi-tenant backend systems  
+- Partner → client → dataset hierarchies  
+- Config-driven execution engines  
+- Secure tenant isolation  
+- Usage-based billing foundations  
 
----
+### 📊 Data Platforms
+- Ingestion pipelines  
+- Apache Spark–based processing  
+- Databricks job orchestration  
+- S3-based data lakes  
+- Cost attribution per tenant  
 
-### 🌐 Connect with Me
-
-- 🔗 [LinkedIn](https://linkedin.com/in/nareshkumar.sanda)
-- 📬 Email: `nareshkumar.sanda@gmail.com`
-- 💻 GitHub: [github.com/NareshKumarSanda](https://github.com/naresh-sanda)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NareshKumarSanda&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NareshKumarSanda&theme=radical" />
-</p>
+### 🤖 AI-Native Systems
+- AI agents for metadata extraction  
+- Schema inference engines  
+- Data quality validation via LLMs  
+- Intelligent config generation  
+- AI-assisted observability  
 
 ---
 
-### 🎯 2025 Goals
+## 🧠 Technology Stack
 
-- 👨‍🏫 Mentor 100+ Java developers in system design and backend architecture
-- 🚀 Open-source 2 AI-powered tools for developer productivity
-- ✍️ Publish: **Java System Design Handbook (By Naresh Kumar – 15 YOE)**
+**Backend**
+- Java (Core, Concurrency, JVM Internals)  
+- Spring Boot, Spring Cloud, Spring Security  
+
+**Data**
+- Apache Spark (Java)  
+- Databricks  
+- Delta Lake  
+
+**Storage**
+- PostgreSQL · MySQL · MongoDB  
+- Redis · Amazon S3  
+
+**Cloud & DevOps**
+- AWS  
+- Docker  
+- GitHub Actions · Jenkins  
+
+**AI**
+- LLM integration with backend systems  
+- Agent-style workflows  
+- Prompt-driven orchestration  
 
 ---
 
-### 💬 Ask Me About
+## 🚧 Currently Building
 
-`Java`, `Spring Boot`, `Microservices`, `System Design`, `Apache Spark`, `Databricks`, `AI + Java`, `Code Reviews`, `Career Transition`, `Platform Architecture`
+### 🔹 Multi-Tenant Data Platform
+
+A backend foundation designed to become a SaaS-ready product:
+
+- Dataset-driven ingestion  
+- Config-based pipeline execution  
+- Spark job orchestration  
+- Databricks workflow APIs  
+- Tenant-level compute & billing engine  
+
+**Vision:**  
+Build once → onboard many customers → scale without chaos.
 
 ---
-</body>
+
+### 🔹 Java Developer Interview Kit (3–10 YOE)
+
+A structured knowledge product based on real-world experience:
+
+- Core Java depth  
+- JVM internals  
+- Concurrency mastery  
+- System design thinking  
+- Interview & career strategy  
+
+**Brand:**  
+*By Naresh Kumar — 15 YOE Java Architect*
+
+---
+
+## 📂 Selected Repositories
+
+| Repository | Focus |
+|----------|------|
+| **java-interview-kit** | Career & interview mastery |
+| **multi-tenant-data-pipeline** | SaaS-ready data platform |
+| **system-design-java** | Architecture thinking |
+| **peer-vehicle-rental** | Marketplace backend |
+
+---
+
+## 🎯 2026 Vision
+
+- 🧱 Build reusable backend platform foundations  
+- 🤖 Launch AI-powered developer tools  
+- 📘 Publish *Java System Design Handbook*  
+- 🚀 Convert systems into products  
+- 🧠 Mentor engineers to think like builders  
+
+---
+
+## 💬 I Enjoy Discussing
+
+`Backend Architecture` · `Platform Engineering` · `Multi-Tenancy` ·  
+`SaaS Design` · `Java at Scale` · `Data Platforms` · `AI Systems`
+
+---
+
+## 🌐 Connect
+
+- 🔗 LinkedIn: https://linkedin.com/in/nareshkumar.sanda  
+- 💻 GitHub: https://github.com/NareshKumarSanda  
+- 📧 Email: nareshkumarsanda@gmail.com  
+
+---
+
+⭐ *Engineer like a founder. Design like a platform. Build for the long term.*

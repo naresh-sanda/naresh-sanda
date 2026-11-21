@@ -12,11 +12,11 @@ systems that become **products, platforms, and businesses**.
 
 My current focus areas:
 
-- SaaS-ready backend platforms  
-- Multi-tenant architecture design  
-- Data & analytics systems  
-- AI-native automation  
-- Usage-based billing models  
+- SaaS-ready backend platforms
+- Multi-tenant architecture design
+- Data & analytics systems
+- AI-native automation
+- Usage-based billing models
 
 I work at the intersection of:
 
@@ -41,81 +41,89 @@ Every architecture I design follows these principles.
 ## 🏗 What I Build
 
 ### ⚙️ Platform Engineering
-- Multi-tenant backend systems  
-- Partner → client → dataset hierarchies  
-- Config-driven execution engines  
-- Secure tenant isolation  
-- Usage-based billing foundations  
+- Multi-tenant backend systems
+- Partner → client → dataset hierarchies
+- Config-driven execution engines
+- Secure tenant isolation
+- Usage-based billing foundations
 
 ### 📊 Data Platforms
-- Ingestion pipelines  
-- Apache Spark–based processing  
-- Databricks job orchestration  
-- S3-based data lakes  
-- Cost attribution per tenant  
+- Ingestion pipelines
+- Apache Spark–based processing
+- Databricks job orchestration
+- S3-based data lakes
+- Cost attribution per tenant
 
 ### 🤖 AI-Native Systems
-- AI agents for metadata extraction  
-- Schema inference engines  
-- Data quality validation via LLMs  
-- Intelligent config generation  
-- AI-assisted observability  
+- AI agents for metadata extraction
+- Schema inference engines
+- Data quality validation via LLMs
+- Intelligent config generation
+- AI-assisted observability
 
 ---
 
 ## 🧠 Technology Stack
 
 **Backend**
-- Java (Core, Concurrency, JVM Internals)  
-- Spring Boot, Spring Cloud, Spring Security  
+- Java (Core, Concurrency, JVM Internals)
+- Spring Boot, Spring Cloud, Spring Security
 
 **Data**
-- Apache Spark (Java)  
-- Databricks  
-- Delta Lake  
+- Apache Spark (Java)
+- Databricks
+- Delta Lake
 
 **Storage**
-- PostgreSQL · MySQL · MongoDB  
-- Redis · Amazon S3  
+- PostgreSQL · MySQL · MongoDB
+- Redis · Amazon S3
 
 **Cloud & DevOps**
-- AWS  
-- Docker  
-- GitHub Actions · Jenkins  
+- AWS
+- Docker
+- GitHub Actions · Jenkins
 
 **AI**
-- LLM integration with backend systems  
-- Agent-style workflows  
-- Prompt-driven orchestration  
+- LLM integration with backend systems
+- Agent-style workflows
+- Prompt-driven orchestration
 
 ---
 
 ## 🚧 Currently Building
 
+### 🔹 AI for Data Platforms
+
+I’m actively building tools and prototypes that combine natural language, analytics, and data engineering:
+
+- NLQ and NLP-based data pipeline assistants
+- Semantic data discovery and pipeline generation
+- MCP context, skills, and memory for AI data agents
+- Config-driven APIs and dataset workflows
+- Agent harnesses for safer, repeatable engineering
+
 ### 🔹 Multi-Tenant Data Platform
 
 A backend foundation designed to become a SaaS-ready product:
 
-- Dataset-driven ingestion  
-- Config-based pipeline execution  
-- Spark job orchestration  
-- Databricks workflow APIs  
-- Tenant-level compute & billing engine  
+- Dataset-driven ingestion
+- Config-based pipeline execution
+- Spark job orchestration
+- Databricks workflow APIs
+- Tenant-level compute & billing engine
 
 **Vision:**  
 Build once → onboard many customers → scale without chaos.
-
----
 
 ### 🔹 Java Developer Interview Kit (3–10 YOE)
 
 A structured knowledge product based on real-world experience:
 
-- Core Java depth  
-- JVM internals  
-- Concurrency mastery  
-- System design thinking  
-- Interview & career strategy  
+- Core Java depth
+- JVM internals
+- Concurrency mastery
+- System design thinking
+- Interview & career strategy
 
 **Brand:**  
 *By Naresh Kumar — 15 YOE Java Architect*
@@ -126,20 +134,26 @@ A structured knowledge product based on real-world experience:
 
 | Repository | Focus |
 |----------|------|
-| **java-interview-kit** | Career & interview mastery |
-| **multi-tenant-data-pipeline** | SaaS-ready data platform |
-| **system-design-java** | Architecture thinking |
-| **peer-vehicle-rental** | Marketplace backend |
+| [dex](https://github.com/naresh-sanda/dex) | Analytics tooling for AI agents |
+| [ktx-ai-data-agents-mcp-context-skills](https://github.com/naresh-sanda/ktx-ai-data-agents-mcp-context-skills) | MCP context, skills, and memory for accurate data agents |
+| [nlp_datapipeline_builder](https://github.com/naresh-sanda/nlp_datapipeline_builder) | NLP-driven data pipeline builder |
+| [nlp-semantic-data-pipeline-poc](https://github.com/naresh-sanda/nlp-semantic-data-pipeline-poc) | Semantic data pipeline proof of concept |
+| [ECC](https://github.com/naresh-sanda/ECC) | Agent harness performance, memory, security, and skills |
+| [senior-dev-hub](https://github.com/naresh-sanda/senior-dev-hub) | Resources and guidance for senior developers |
+| [spring-boot-microservices](https://github.com/naresh-sanda/spring-boot-microservices) | Gateway, config server, and Kafka microservices |
+| [ultimate-design-patterns](https://github.com/naresh-sanda/ultimate-design-patterns) | Practical Java design patterns |
+
+> More experiments and learning repositories are available on my [GitHub profile](https://github.com/naresh-sanda).
 
 ---
 
 ## 🎯 2026 Vision
 
-- 🧱 Build reusable backend platform foundations  
-- 🤖 Launch AI-powered developer tools  
-- 📘 Publish *Java System Design Handbook*  
-- 🚀 Convert systems into products  
-- 🧠 Mentor engineers to think like builders  
+- 🧱 Build reusable backend platform foundations
+- 🤖 Launch AI-powered developer and data tools
+- 📘 Publish *Java System Design Handbook*
+- 🚀 Convert systems into products
+- 🧠 Mentor engineers to think like builders
 
 ---
 
@@ -152,9 +166,9 @@ A structured knowledge product based on real-world experience:
 
 ## 🌐 Connect
 
-- 🔗 LinkedIn: https://linkedin.com/in/nareshkumar.sanda  
-- 💻 GitHub: https://github.com/NareshKumarSanda  
-- 📧 Email: nareshkumarsanda@gmail.com  
+- 🔗 LinkedIn: https://linkedin.com/in/nareshkumar.sanda
+- 💻 GitHub: https://github.com/naresh-sanda
+- 📧 Email: nareshkumarsanda@gmail.com
 
 ---
 
